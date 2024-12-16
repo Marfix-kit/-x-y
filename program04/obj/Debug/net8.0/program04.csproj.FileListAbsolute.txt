@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\программы\program04\bin\Debug\net8.0\program04.exe
+C:\Users\Дашуля\Desktop\программы\program04\bin\Debug\net8.0\program04.deps.json
+C:\Users\Дашуля\Desktop\программы\program04\bin\Debug\net8.0\program04.runtimeconfig.json
+C:\Users\Дашуля\Desktop\программы\program04\bin\Debug\net8.0\program04.dll
+C:\Users\Дашуля\Desktop\программы\program04\bin\Debug\net8.0\program04.pdb
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\program04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\program04.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\program04.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\program04.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\program04.dll
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\refint\program04.dll
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\program04.pdb
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\program04.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\программы\program04\obj\Debug\net8.0\ref\program04.dll
