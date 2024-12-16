@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\program01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\program01.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\program01.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\program01.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\программы\program01\bin\Debug\net8.0\program01.exe
+C:\Users\Дашуля\Desktop\программы\program01\bin\Debug\net8.0\program01.deps.json
+C:\Users\Дашуля\Desktop\программы\program01\bin\Debug\net8.0\program01.runtimeconfig.json
+C:\Users\Дашуля\Desktop\программы\program01\bin\Debug\net8.0\program01.dll
+C:\Users\Дашуля\Desktop\программы\program01\bin\Debug\net8.0\program01.pdb
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\program01.dll
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\refint\program01.dll
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\program01.pdb
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\program01.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\программы\program01\obj\Debug\net8.0\ref\program01.dll
