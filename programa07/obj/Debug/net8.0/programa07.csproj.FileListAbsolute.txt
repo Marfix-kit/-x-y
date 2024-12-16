@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\программы\programa07\bin\Debug\net8.0\programa07.exe
+C:\Users\Дашуля\Desktop\программы\programa07\bin\Debug\net8.0\programa07.deps.json
+C:\Users\Дашуля\Desktop\программы\programa07\bin\Debug\net8.0\programa07.runtimeconfig.json
+C:\Users\Дашуля\Desktop\программы\programa07\bin\Debug\net8.0\programa07.dll
+C:\Users\Дашуля\Desktop\программы\programa07\bin\Debug\net8.0\programa07.pdb
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\programa07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\programa07.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\programa07.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\programa07.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\programa07.dll
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\refint\programa07.dll
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\programa07.pdb
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\programa07.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\программы\programa07\obj\Debug\net8.0\ref\programa07.dll
